@@ -1,6 +1,2 @@
-<<<<<<< Updated upstream
-Using: PyQT5, Sqlite3, PyQT5.uic, sys
-
-=======
-Using pyqt5, sqlite3
->>>>>>> Stashed changes
+PyQt5==5.13.0
+pyqt5-tools==5.13.0.1.5
