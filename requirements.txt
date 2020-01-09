@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 Using: PyQT5, Sqlite3, PyQT5.uic, sys
 
+=======
+Using pyqt5, sqlite3
+>>>>>>> Stashed changes
