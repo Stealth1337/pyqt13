@@ -1,0 +1,2 @@
+Using: PyQT5, Sqlite3, PyQT5.uic, sys
+
